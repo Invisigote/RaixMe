@@ -1,4 +1,4 @@
-cube.gif
+![Animazione](cube.gif)
 
 # RaixMe
 App parsing intranet
